@@ -1,0 +1,13 @@
+1) How to troubleshoot computer which hangs.
+2) what happens if a webpage is loading slowly how do you troubleshoot?
+3) what happens when a machine is running slow, how do you troubleshoot?
+4) how do you troubleshoot DNS?
+5) What you would do if a client faced an issues with one of their servers going down.
+6) If you were to run diagnostics on a clients server that is rebooting, how would you approach this?
+7)  about a time I took ownership in a situation when the team was failing.
+8) What to do if laptop is hanging a lot?
+9) A user says that whenever they try to use the system, it keeps rebooting, what could be the cause of this? How would you go about trying to find out what's causing the issue?
+10) You are the network administrator and are not able to access root? What is causing this? How would you figure out what's causing this?
+11) A client's system/server is having bad performance, what could potentially be causing this? How would you go about trying to find out the cause of this problem?
+12) how will you T-shoot if you cant connect to xyz.com?
+13) how to check open ports on a pc
