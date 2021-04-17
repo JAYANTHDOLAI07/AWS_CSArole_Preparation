@@ -1,0 +1,2 @@
+1) Circular linked list.
+2) Given an array of numbers (example [1, 2,2,3,3,4,4,4,4,5]) find the numbers which are having their frequency equal to themselves and return max of them. Have to tell optimised approach.
