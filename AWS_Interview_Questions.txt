@@ -1,0 +1,1 @@
+1) specific ports to use for smtp, rdp, and amazon web services offerings.
