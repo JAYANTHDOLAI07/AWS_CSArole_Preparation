@@ -1,0 +1,31 @@
+1) HTTP vs HTTPS & Why would you choose HTTPS over HTTP? 
+2) DHCP-DORA
+3) what happens when you type amazon.com in a browser?/ in CN TCP/IP model, after triggering any url what happens in behind(whole process) etc..
+4) what is SSL and how does it work?
+5) How do you protect/secure a website?
+6) what is the TCP/IP protocol & OSI model?
+7) What is WAF and how does it work?
+8) Explain how a TCP connection is established
+9) job simulate the problem
+10) How does a web page load, what happens in the background?
+11) UDP
+12) Transmission of messages between layers
+13) Describe DNS lookup process (8 steps) for Domain name resolution.
+14) What does NetStat do? Which Linux command finds routing tables?
+15) ARP
+16) What is the difference between "Connection Refused" and "Connection Timed Out"? What causes these two things to happen?
+17) Do you know what a 3-tiered website is?
+18) What is the difference between example.com and example.org? (think technical)
+19) Given the following information:
+10.0.0.0/8
+100,000 hosts on network
+There is a host with an IP of 10.0.0.1 who cannot connect, why is this? Also, a lot of hosts on the network are reporting that they cannot connect, why is this?
+20) 3 way handshake. Difference between TCP and UDP, NAT/PAT, DNS, Traceroute.
+21) SSl/TLS
+22) Describe unicast, multicast and broadcast? 
+23) How to stop a ddos attack
+24) What are few methods of HTTP, what is HTTPs, is the port number different for HTTPs, how is SSL related to HTTPs, explain SSL handshake?
+25) How is a hub, a router, and a switch different from each other? Explain in terms of broadcast domain.
+26) As MSS was explained in TCP 3 way handshake, explain what is MTU and compare and contrast MSS and MTU together.
+
+
